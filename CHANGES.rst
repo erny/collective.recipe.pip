@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.3.6 (2019-12-02)
+------------------
+
+- Don't ignore environment markers when running buildout (tangrambpm / erny).
+
 0.3.5 (2019-10-02)
 ------------------
 
